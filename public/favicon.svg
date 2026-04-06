@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#1e3d35"/>
+
+  <!-- Leaf right -->
+  <path d="M38 18 C38 18 46 16 46 26 C46 26 40 24 38 18Z" fill="#5cb85c"/>
+  <!-- Leaf left -->
+  <path d="M30 22 C30 22 22 18 24 28 C24 28 30 28 30 22Z" fill="#4cae4c"/>
+  <!-- Stem -->
+  <path d="M34 28 Q34 38 34 46" stroke="#5cb85c" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+
+  <!-- N letter -->
+  <text x="10" y="58" font-family="Arial, sans-serif" font-weight="bold" font-size="22" fill="white" letter-spacing="-1">NH</text>
+</svg>
