@@ -35,7 +35,7 @@ if (
   CONFIG.system.emailEnabled &&
   CONFIG.emailjs.publicKey !== "YOUR_PUBLIC_KEY"
 ) {
-  emailjs.init({ publicKey: CONFIG.emailjs.publicKey });
+  emailjs.init(CONFIG.emailjs.publicKey);
 }
 
 export const EmailService = {
